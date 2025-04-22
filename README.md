@@ -1,6 +1,6 @@
 # Data_Analysis
 
-A repository for practicing data visualization with pandas and matplotlib in Python.
+A repository for practicing data visualization in Python.
 
 ## Contents
 - `scripts/`: Python scripts for visualization.
