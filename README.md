@@ -1,9 +1,8 @@
-# pandas-matplotlib-practice
+# Data_Analysis
 
 A repository for practicing data visualization with pandas and matplotlib in Python.
 
 ## Contents
-- `notebooks/`: Jupyter notebooks with examples.
 - `scripts/`: Python scripts for visualization.
 - `data/`: Sample datasets.
 
